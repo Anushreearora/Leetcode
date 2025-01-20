@@ -36,7 +36,6 @@ class Solution(object):
             if seen_s.values() == seen_t.values():
                 return True
 
-        
         return False
         
 # @lc code=end
